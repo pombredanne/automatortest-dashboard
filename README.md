@@ -1,4 +1,4 @@
-automatortest-dashboard
-=======================
+Automator Test Dashboard
+========================
 
-Automator Test project
+Automator Test project tests automator tool using a complete configuration.
